@@ -17,8 +17,8 @@ namespace TestProject
         public void DynamicTypeForStaticMembersTest()
         {
             dynamic d = new StaticMemberDynamicWrapper(typeof(Clazz));
-            d.Objects = new object[] { 11, "st1" };
-            Console.WriteLine(d.Length(11, "11"));
+            //d.Objects = new object[] { 11, "st1" };
+            //Console.WriteLine(d.Length(11, "11"));
             Console.ReadKey();
         }
     }

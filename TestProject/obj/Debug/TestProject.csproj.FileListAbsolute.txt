@@ -3,3 +3,8 @@ C:\Users\psok\Documents\Visual Studio 2013\Projects\TestProject\TestProject\bin\
 C:\Users\psok\Documents\Visual Studio 2013\Projects\TestProject\TestProject\obj\Debug\TestProject.dll
 C:\Users\psok\Documents\Visual Studio 2013\Projects\TestProject\TestProject\obj\Debug\TestProject.pdb
 C:\Users\psok\documents\visual studio 2013\Projects\TestProject\TestProject\obj\Debug\TestProject.csprojResolveAssemblyReference.cache
+D:\Development\VS projects\EducationExemplars\TestProject\bin\Debug\TestProject.dll
+D:\Development\VS projects\EducationExemplars\TestProject\bin\Debug\TestProject.pdb
+D:\Development\VS projects\EducationExemplars\TestProject\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Development\VS projects\EducationExemplars\TestProject\obj\Debug\TestProject.dll
+D:\Development\VS projects\EducationExemplars\TestProject\obj\Debug\TestProject.pdb
