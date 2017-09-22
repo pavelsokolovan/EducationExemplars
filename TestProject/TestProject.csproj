@@ -50,11 +50,15 @@
     </Otherwise>
   </Choose>
   <ItemGroup>
+    <Compile Include="ParamsInMethod.cs" />
+    <Compile Include="Dynamic.cs" />
+    <Compile Include="Array.cs" />
     <Compile Include="DynamicTypeForStaticMembers.cs" />
     <Compile Include="DisposibleUsing.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="NamedAndOptionalArguments.cs" />
-    <Compile Include="ReferenceTypeByReference.cs" />
+    <Compile Include="CastNullToSomeType.cs" />
+    <Compile Include="RefOut.cs" />
   </ItemGroup>
   <Choose>
     <When Condition="'$(VisualStudioVersion)' == '10.0' And '$(IsCodedUITest)' == 'True'">

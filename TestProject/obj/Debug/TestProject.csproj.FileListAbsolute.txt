@@ -8,3 +8,4 @@ D:\Development\VS projects\EducationExemplars\TestProject\bin\Debug\TestProject.
 D:\Development\VS projects\EducationExemplars\TestProject\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
 D:\Development\VS projects\EducationExemplars\TestProject\obj\Debug\TestProject.dll
 D:\Development\VS projects\EducationExemplars\TestProject\obj\Debug\TestProject.pdb
+D:\Development\VS projects\EducationExemplars\TestProject\obj\Debug\TestProject.csprojResolveAssemblyReference.cache
