@@ -50,6 +50,7 @@
     </Otherwise>
   </Choose>
   <ItemGroup>
+    <Compile Include="BinarySearch1.cs" />
     <Compile Include="ParamsInMethod.cs" />
     <Compile Include="Dynamic.cs" />
     <Compile Include="Array.cs" />
